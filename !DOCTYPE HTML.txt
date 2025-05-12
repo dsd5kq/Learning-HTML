@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+\centering
+<h1> Welcome to my website! </h1>
+<p> This is my first paragraph describing what it is I wish to do </p>
+
+<\body>
+<\html>
